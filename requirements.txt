@@ -1,0 +1,41 @@
+# Core Big Data
+pyspark==3.5.3
+findspark==2.0.1
+
+# Data handling
+pandas==2.2.3
+numpy==1.26.4
+pyarrow==17.0.0
+
+# Hugging Face / Dataset
+datasets==3.0.0
+huggingface-hub==0.25.0
+
+# Arabic NLP
+pyarabic==0.6.15
+camel-tools==1.5.5
+
+# Transformers (for AraBERT)
+transformers==4.43.4
+torch==2.4.1
+sentencepiece==0.2.0
+
+# ML utilities
+scikit-learn==1.5.2
+xgboost==2.1.1
+
+# Streaming
+kafka-python-ng==2.0.2
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+wordcloud==1.9.3
+
+# Notebook
+jupyter==1.1.1
+ipykernel==6.29.5
+
+# Utilities
+tqdm==4.66.5
+python-dotenv==1.0.1
